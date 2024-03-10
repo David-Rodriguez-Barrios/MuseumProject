@@ -1,5 +1,5 @@
 # MuseumProject
-Implemented SQL and Python to create an art museum's database. The database has different authorizations and thus roles for different query privileges.
+Implemented SQL and Python to create an art museum's database. The database has different authorizations and thus roles for different query privileges. MySQL was utilized to host the SQL database and a connector with Python was utilized. 
 
 
 ## Database Design
